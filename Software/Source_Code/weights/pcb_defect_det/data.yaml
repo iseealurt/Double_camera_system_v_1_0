@@ -1,0 +1,6 @@
+path: Software\Source_Code\weights\pcb_defect_det
+train: Software\Source_Code\weights\pcb_defect_det\train\images
+val: Software\Source_Code\weights\pcb_defect_det\val\images
+
+nc: 6
+names: ["Mouse_bite", "Spur", "Missing_hole", "Short", "Open_circuit", "Spurious_copper"]

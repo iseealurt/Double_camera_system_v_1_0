@@ -1,0 +1,6 @@
+"../ipcore/drm_fifo_256b_8d/drm_fifo_256b_8d.v"\
+"../ipcore/drm_fifo_256b_8d/rtl/ipml_fifo_ctrl_v1_4_drm_fifo_256b_8d.v"\
+"../ipcore/drm_fifo_256b_8d/rtl/ipml_fifo_v1_9_drm_fifo_256b_8d.v"\
+"../ipcore/drm_fifo_256b_8d/rtl/ipml_prefetch_fifo_v1_9_drm_fifo_256b_8d.v"\
+"../ipcore/drm_fifo_256b_8d/rtl/ipml_reg_fifo_v1_1_drm_fifo_256b_8d.v"\
+"../ipcore/drm_fifo_256b_8d/rtl/ipml_sdpram_v1_9_drm_fifo_256b_8d.v"

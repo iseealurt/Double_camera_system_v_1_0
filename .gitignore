@@ -1,0 +1,45 @@
+# ---- ModelSim / Questa 仿真产物 ----
+work/
+*_opt/
+*.wlf
+*.vcd
+*.vstf
+transcript
+modelsim.ini
+*.qdb
+*.qpg
+*.qtl
+*.dbg
+*.bak
+*.backup_*
+*.log
+
+# ---- Pango / FPGA 工程产物 ----
+*.fic
+*.sbit
+*.bit
+rdfile_*
+Prj/compile/
+Prj/synthesize/
+Prj/place_route/
+Prj/device_map/
+Prj/generate_bitstream/
+Prj/report_power/
+Prj/report_timing/
+Prj/log/
+Prj/logbackup/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- 系统 / 编辑器 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

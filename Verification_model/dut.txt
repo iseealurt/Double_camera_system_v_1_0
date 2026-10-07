@@ -1,0 +1,3 @@
+"../Verification_model/axi_mem_test_model.v"\
+"../Verification_model/OV_DDR_HDMI_v_2_0_SIM.v"\
+"../Verification_model/tb_OV_DDR_HDMI_v_2_0.v"

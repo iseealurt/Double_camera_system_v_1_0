@@ -1,0 +1,5 @@
+"../ipcore/smg_lr0_ram/sgm_lr0_ram.v"\
+"../ipcore/smg_lr0_ram/sgm_lr0_ram_tb.v"\
+"../ipcore/smg_lr0_ram/sgm_lr0_ram_tmpl.v"\
+"../ipcore/smg_lr0_ram/rtl/ipml_dpram_v1_8_sgm_lr0_ram.v"\
+"../ipcore/smg_lr0_ram/rtl/sgm_lr0_ram_init_param.v"

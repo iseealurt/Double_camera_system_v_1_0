@@ -1,0 +1,5 @@
+"../Bench/bench_template.v"\
+"../Bench/matrix_5x5_tb.v"\
+"../Bench/tb_multi_axi_connector.v"\
+"../Bench/tb_sgm.v"\
+"../Bench/tb_sgm_new.v"
