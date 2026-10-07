@@ -74,7 +74,3 @@
   - 第三方算法参考代码；
 - `ipcore/` 中 DDR3 控制器等 IP 由 Pango Design Suite 官方 IP 生成器生成，请遵守工具随附的许可条款；
 - 校验/比对用的少量测试向量（`Bench/*.dat`、`Matlab/test img/census_dat` 等）已保留，可直接复现仿真与验证流程。
-
-## 五、许可证
-
-本仓库暂未附加开源许可证（LICENSE），发布前请根据您的意愿补充（如 MIT / Apache-2.0 / GPL 等）；第三方 IP 与工具生成代码请遵循其原始许可。
